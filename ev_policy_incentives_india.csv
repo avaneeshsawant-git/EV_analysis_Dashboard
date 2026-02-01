@@ -1,0 +1,19 @@
+state,policy_start_year,avg_ev_subsidy_rs,road_tax_exemption,registration_fee_waiver
+Maharashtra,2019,50000,1,0
+Karnataka,2022,75000,0,0
+Tamil Nadu,2018,50000,1,0
+Delhi,2018,50000,0,0
+Gujarat,2021,0,1,0
+Uttar Pradesh,2021,25000,0,0
+Rajasthan,2019,100000,1,1
+Madhya Pradesh,2022,50000,1,0
+Telangana,2019,50000,0,1
+Kerala,2021,0,0,0
+Punjab,2019,25000,0,0
+Haryana,2021,100000,0,0
+West Bengal,2018,25000,0,1
+Odisha,2020,25000,0,1
+Bihar,2022,50000,0,0
+Jharkhand,2020,0,0,0
+Chhattisgarh,2022,75000,1,0
+Assam,2021,0,0,0

@@ -1,0 +1,163 @@
+state,year,charging_stations,fast_charger_pct,urban_coverage_pct
+Maharashtra,2016,470,0.29,0.63
+Maharashtra,2017,603,0.64,0.74
+Maharashtra,2018,592,0.61,0.76
+Maharashtra,2019,198,0.38,0.53
+Maharashtra,2020,505,0.3,0.5
+Maharashtra,2021,651,0.6,0.76
+Maharashtra,2022,652,0.34,0.84
+Maharashtra,2023,163,0.34,0.74
+Maharashtra,2024,350,0.52,0.83
+Karnataka,2016,321,0.47,0.81
+Karnataka,2017,185,0.55,0.84
+Karnataka,2018,574,0.53,0.6
+Karnataka,2019,498,0.41,0.81
+Karnataka,2020,318,0.32,0.48
+Karnataka,2021,678,0.42,0.5
+Karnataka,2022,1100,0.65,0.56
+Karnataka,2023,719,0.47,0.54
+Karnataka,2024,1149,0.51,0.6
+Tamil Nadu,2016,561,0.31,0.6
+Tamil Nadu,2017,369,0.55,0.49
+Tamil Nadu,2018,1043,0.28,0.45
+Tamil Nadu,2019,549,0.4,0.81
+Tamil Nadu,2020,646,0.5,0.69
+Tamil Nadu,2021,1002,0.52,0.77
+Tamil Nadu,2022,1007,0.57,0.81
+Tamil Nadu,2023,231,0.47,0.42
+Tamil Nadu,2024,816,0.5,0.78
+Delhi,2016,482,0.49,0.72
+Delhi,2017,103,0.49,0.82
+Delhi,2018,1110,0.41,0.66
+Delhi,2019,321,0.4,0.73
+Delhi,2020,655,0.48,0.65
+Delhi,2021,344,0.47,0.55
+Delhi,2022,503,0.51,0.85
+Delhi,2023,762,0.5,0.64
+Delhi,2024,646,0.48,0.57
+Gujarat,2016,498,0.44,0.82
+Gujarat,2017,317,0.57,0.8
+Gujarat,2018,459,0.45,0.85
+Gujarat,2019,552,0.26,0.67
+Gujarat,2020,804,0.35,0.77
+Gujarat,2021,630,0.28,0.73
+Gujarat,2022,1206,0.4,0.63
+Gujarat,2023,105,0.36,0.62
+Gujarat,2024,988,0.62,0.66
+Uttar Pradesh,2016,639,0.35,0.7
+Uttar Pradesh,2017,120,0.28,0.82
+Uttar Pradesh,2018,646,0.51,0.84
+Uttar Pradesh,2019,1021,0.65,0.45
+Uttar Pradesh,2020,1230,0.27,0.72
+Uttar Pradesh,2021,126,0.53,0.46
+Uttar Pradesh,2022,430,0.5,0.71
+Uttar Pradesh,2023,20,0.52,0.72
+Uttar Pradesh,2024,136,0.58,0.78
+Rajasthan,2016,855,0.59,0.62
+Rajasthan,2017,752,0.25,0.67
+Rajasthan,2018,20,0.43,0.55
+Rajasthan,2019,771,0.65,0.44
+Rajasthan,2020,1033,0.65,0.83
+Rajasthan,2021,520,0.54,0.81
+Rajasthan,2022,1113,0.45,0.74
+Rajasthan,2023,424,0.3,0.78
+Rajasthan,2024,454,0.57,0.59
+Madhya Pradesh,2016,573,0.61,0.74
+Madhya Pradesh,2017,278,0.51,0.84
+Madhya Pradesh,2018,585,0.6,0.4
+Madhya Pradesh,2019,389,0.59,0.53
+Madhya Pradesh,2020,784,0.62,0.61
+Madhya Pradesh,2021,721,0.26,0.42
+Madhya Pradesh,2022,844,0.37,0.64
+Madhya Pradesh,2023,987,0.65,0.49
+Madhya Pradesh,2024,467,0.3,0.51
+Telangana,2016,259,0.33,0.44
+Telangana,2017,906,0.61,0.85
+Telangana,2018,234,0.37,0.71
+Telangana,2019,751,0.35,0.55
+Telangana,2020,382,0.37,0.53
+Telangana,2021,568,0.55,0.78
+Telangana,2022,617,0.32,0.84
+Telangana,2023,473,0.33,0.44
+Telangana,2024,935,0.5,0.64
+Kerala,2016,629,0.63,0.61
+Kerala,2017,546,0.3,0.73
+Kerala,2018,609,0.53,0.5
+Kerala,2019,409,0.5,0.59
+Kerala,2020,60,0.44,0.79
+Kerala,2021,594,0.44,0.46
+Kerala,2022,803,0.5,0.76
+Kerala,2023,252,0.46,0.69
+Kerala,2024,136,0.65,0.76
+Punjab,2016,565,0.54,0.44
+Punjab,2017,971,0.36,0.41
+Punjab,2018,156,0.47,0.44
+Punjab,2019,1808,0.36,0.61
+Punjab,2020,441,0.42,0.64
+Punjab,2021,370,0.42,0.67
+Punjab,2022,649,0.33,0.52
+Punjab,2023,1022,0.49,0.65
+Punjab,2024,351,0.56,0.78
+Haryana,2016,206,0.31,0.84
+Haryana,2017,1147,0.51,0.66
+Haryana,2018,420,0.59,0.59
+Haryana,2019,717,0.31,0.45
+Haryana,2020,1148,0.41,0.56
+Haryana,2021,696,0.26,0.55
+Haryana,2022,374,0.35,0.77
+Haryana,2023,934,0.39,0.74
+Haryana,2024,72,0.43,0.45
+West Bengal,2016,198,0.28,0.78
+West Bengal,2017,480,0.56,0.62
+West Bengal,2018,650,0.54,0.66
+West Bengal,2019,206,0.59,0.67
+West Bengal,2020,211,0.49,0.69
+West Bengal,2021,547,0.6,0.56
+West Bengal,2022,172,0.49,0.84
+West Bengal,2023,360,0.48,0.75
+West Bengal,2024,505,0.46,0.59
+Odisha,2016,1042,0.4,0.84
+Odisha,2017,688,0.48,0.73
+Odisha,2018,737,0.26,0.62
+Odisha,2019,588,0.64,0.69
+Odisha,2020,496,0.64,0.42
+Odisha,2021,614,0.62,0.52
+Odisha,2022,557,0.47,0.53
+Odisha,2023,751,0.55,0.43
+Odisha,2024,786,0.32,0.45
+Bihar,2016,837,0.58,0.51
+Bihar,2017,363,0.31,0.84
+Bihar,2018,494,0.51,0.74
+Bihar,2019,890,0.52,0.82
+Bihar,2020,709,0.29,0.73
+Bihar,2021,955,0.29,0.67
+Bihar,2022,931,0.45,0.59
+Bihar,2023,1003,0.42,0.65
+Bihar,2024,560,0.31,0.51
+Jharkhand,2016,565,0.55,0.83
+Jharkhand,2017,686,0.57,0.67
+Jharkhand,2018,1151,0.43,0.68
+Jharkhand,2019,1088,0.53,0.61
+Jharkhand,2020,95,0.54,0.54
+Jharkhand,2021,109,0.26,0.46
+Jharkhand,2022,796,0.57,0.55
+Jharkhand,2023,855,0.44,0.6
+Jharkhand,2024,270,0.4,0.83
+Chhattisgarh,2016,1106,0.39,0.76
+Chhattisgarh,2017,429,0.53,0.67
+Chhattisgarh,2018,1126,0.54,0.51
+Chhattisgarh,2019,299,0.54,0.61
+Chhattisgarh,2020,1192,0.29,0.82
+Chhattisgarh,2021,734,0.43,0.55
+Chhattisgarh,2022,713,0.35,0.45
+Chhattisgarh,2023,669,0.53,0.74
+Chhattisgarh,2024,721,0.25,0.55
+Assam,2016,649,0.43,0.63
+Assam,2017,283,0.48,0.76
+Assam,2018,450,0.56,0.66
+Assam,2019,1063,0.64,0.53
+Assam,2020,405,0.38,0.51
+Assam,2021,181,0.37,0.79
+Assam,2022,334,0.56,0.81
+Assam,2023,641,0.63,0.42
+Assam,2024,390,0.36,0.72
