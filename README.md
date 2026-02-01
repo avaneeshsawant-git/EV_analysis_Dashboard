@@ -123,37 +123,7 @@ streamlit run app.py
 
 
 
-This will render as **plain text + simple code blocks**, no boxed steps.
 
----
 
-## 🧠 Which one should YOU use?
-
-### Use the **styled / numbered version** if:
-- This is for **hackathon / judges / public repo**
-- You want it to look **professional**
-- You want clarity for non-technical users
-
-### Use the **simple version** if:
-- This is for **college submission**
-- You want minimal formatting
-- You personally don’t like visual blocks
-
-Both are **100% valid Markdown**.
-
----
-
-## ✅ Final Recommendation (honest)
-
-For your project:
-> **Keep the styled version**  
-It looks **clean, readable, and professional** — not childish.
-
-If you want, I can:
-- Rewrite the README in **ultra-minimal academic style**
-- Match it to **IEEE / college format**
-- Remove emojis entirely
-
-Just tell me 👍
 
 
